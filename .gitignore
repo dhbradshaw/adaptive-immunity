@@ -1,6 +1,1 @@
-# Latex compiler outputs
-*.aux
-*.log
-*.pdf
-*.synctex.gz
-*.toc
+book
