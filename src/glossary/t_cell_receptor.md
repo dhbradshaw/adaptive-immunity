@@ -1,5 +1,5 @@
-\section{T-cell Receptor}
-\label{Glossary:T_cell_receptor}
+# T Cell Receptor
+
 Some white blood cells have the ability to recognize pathogens.  They do so via
 a membrane-bound protein complex known as the T-cell Receptor.  White blood cells
 that have T-cell Receptors are called T-cells.
